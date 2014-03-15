@@ -13,7 +13,7 @@ SL-prog en collaboration avec vinvin-win, le projet Game Wood est [Open Source](
 =========
 
 
-La Game Wood est basée sur deux microcontrôleurs : l'Atmega328 et l'Atmega2560 de chez AVR.
+La Game Wood est basée sur deux microcontrôleurs : l'Atmega328 et l'Atmega2560 de chez [Atmel](http://www.atmel.com/).
 
 Les programmes sont développés sur [l'IDE Arduino](http://www.arduino.cc/fr/).
 
@@ -28,15 +28,15 @@ Projet commencé le 04/03/2014
 
 *IMPORTANT !*
 
-Ce projet utilise d'autres projets sous la licence " GNU GENERAL PUBLIC LICENSE " qui n'appartiennent ni à SL-prog ni à vinvin-win.
+Ce projet utilise d'autres projets sous la licence " GNU GENERAL PUBLIC LICENSE " qui n'appartiennent ni à [SL-prog](https://github.com/SL-prog) ni à [vinvin-win](https://github.com/vinvin-win).
 
-Ce projet est lui-même distribué sous la licence " GNU GENERAL PUBLIC LICENSE " conformément aux closes de la licence.
+Ce projet est lui-même distribué sous la licence " GNU GENERAL PUBLIC LICENSE " conformément aux clauses de la licence.
 
 ---
 
 Les projets utilisés sont :
 
-- les librairie Wire et SD présentes dans les fichiers de base de l'IDE Arduino :
+- les librairies Wire et SD présentes dans les fichiers de base de l'IDE Arduino :
 lien du [projet GitHub d'Arduino](https://github.com/arduino/Arduino/)
 lien du [site Internet officiel d'Arduino](http://arduino.cc/)
 la licence du logiciel Arduino est présente dans le dossier " Librairies " du projet Game Wood.
